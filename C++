@@ -5,7 +5,7 @@ using namespace std;
 struct Node{
     // A node will 2 entities
     //1. data type int called label
-    //2. a int type list called neighbours
+    //2. a int type list called relatives
     int label;
     list<int> neighbours;
 
